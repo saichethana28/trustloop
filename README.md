@@ -82,25 +82,6 @@ This score helps buyers instantly judge seller reliability.
 
 ---
 
-## 📁 Project Structure
-
-trustloop/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── data/
-│   ├── services/
-│   └── App.tsx
-│
-├── public/
-├── package.json
-├── vite.config.ts
-└── README.md
-
-
----
-
 ## 🚀 Live Demo
 
 🔗 **Live Application:**  
